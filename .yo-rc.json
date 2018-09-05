@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "apiFly",
+    "repo": "alexRaso89/openApiFly",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
